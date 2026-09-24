@@ -1,18 +1,202 @@
-# 💫 About Me:
-Hi 👋, I'm Umaima Manzoor<br>Computer Science Undergraduate | Systems & AI Builder | Gold Medalist<br>🔭 I’m currently working on ➡️ TracePrism (Interactive Code Execution & Memory Visualizer)<br>🌱 I’m currently learning ➡️ Advanced Software Architecture, Compiler Design, and Deep Learning<br>👯 I’m looking to collaborate on ➡️ Open-source developer tools and automated testing engines<br>💬 Ask me about ➡️ System optimization, data structures, and computer vision<br>📫 How to reach me ➡️ umaimamanzoor2005@gmail.com<br>
+<!-- =========================================================
+     UMAIMA MANZOOR — GITHUB PROFILE
+     Visual direction: Gargi/Bhardwaj-inspired
+     ========================================================= -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umaima-manzoor-56b345292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umaimamanzoor2005@gmail.com) 
+# 👋 Hi, I'm Umaima Manzoor
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Umaima-Manzoor&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Umaima-Manzoor&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Umaima-Manzoor&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Computer Science · Software Systems · AI
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Umaima-Manzoor&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+software+that+explains+complex+systems;Exploring+systems%2C+AI%2C+and+developer+tools;Turning+CS+concepts+into+working+projects" alt="Typing animation">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+<a href="https://linkedin.com/in/umaima-manzoor-56b345292">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:umaimamanzoor2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+---
+
+## 🧭 `whoami`
+
+I'm a Computer Science student interested in understanding how software works beneath the surface — from program execution and memory to artificial intelligence and system-level programming.
+
+I enjoy turning concepts from my coursework into projects that are **interactive, visual, and practical**.
+
+Currently, I'm building **TracePrism**, an interactive code execution and memory visualisation tool, while strengthening my foundations in software architecture, compiler concepts, and deep learning.
+
+---
+
+## 🔭 Currently Building
+
+### `TracePrism`
+
+> **Interactive Code Execution & Memory Visualizer**
+
+A developer-learning tool designed to make program execution easier to see and understand.
+
+The goal is to visualise things that normally remain hidden:
+
+* execution flow
+* variables and state
+* memory changes
+* function calls
+* program behaviour
+
+**Stack:** Python · Streamlit · Runtime Introspection
+
+---
+
+## 🧰 Technology
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js" alt="Programming languages">
+</p>
+
+### AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI technologies">
+</p>
+
+### Development & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,cmake,flask,streamlit" alt="Development tools">
+</p>
+
+---
+
+## 🚀 Selected Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 TracePrism
+
+**Interactive Code Execution & Memory Visualizer**
+
+A visual tool for understanding program execution, state changes, and memory.
+
+`Python` `Streamlit`
+
+**Status:** 🚧 In development
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Project
+
+**Artificial Intelligence Coursework Project**
+
+A complete AI project containing datasets, model implementations, scripts, requirements, documentation, presentation, and demonstration material.
+
+`Python` `AI/ML`
+
+<a href="https://github.com/Umaima-Manzoor/AI-Project">View repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📇 Contact Management System
+
+A C-based contact management system implementing operations for adding, deleting, updating, displaying, and searching contacts.
+
+`C` `Procedural Programming`
+
+<a href="https://github.com/Umaima-Manzoor/PF-Project">View repository →</a>
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Computer Organization & Assembly
+
+A collection of Assembly programming coursework, including calculator and low-level programming exercises.
+
+`Assembly` `Computer Architecture`
+
+<a href="https://github.com/Umaima-Manzoor/COAL-Labs">View repository →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Umaima-Manzoor&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph">
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Umaima-Manzoor/Umaima-Manzoor/output/github-contribution-grid-snake.svg" alt="Contribution snake">
+
+</div>
+
+---
+
+## 📈 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Umaima-Manzoor&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umaima-Manzoor&layout=compact&hide_border=true&langs_count=6" height="170" alt="Top languages">
+
+</div>
+
+---
+
+## 🧩 What I'm Exploring
+
+```text
+Software Architecture
+        │
+        ├── Program Execution
+        │       └── Runtime Introspection
+        │
+        ├── Systems Programming
+        │       └── Memory · Processes · Concurrency
+        │
+        └── Artificial Intelligence
+                ├── Computer Vision
+                ├── Deep Learning
+                └── Machine Learning
+```
+
+---
+
+<div align="center">
+
+### Building • Learning • Experimenting
+
+*One project at a time.*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Umaima-Manzoor&style=flat-square&color=6C63FF" alt="Profile views">
+
+</div>
